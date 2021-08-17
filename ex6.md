@@ -1,0 +1,1 @@
+Exercise 6: Renaming and Deleting a File
