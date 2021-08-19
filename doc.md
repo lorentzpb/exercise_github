@@ -6,4 +6,4 @@ The toothbrush requires [need info here].
 
 Another line of text that is incomplete.
 
-new line
+new line. Added some more text on the last line.
